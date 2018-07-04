@@ -1,0 +1,8 @@
+{
+    "log_command": true,
+    "log_command_error": true,
+    "log_error": true,
+    "log_level": 20,
+    "log_message": true,
+    "log_message_edit": true
+}
